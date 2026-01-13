@@ -15,7 +15,8 @@ We utilize DistilBERT with attentive pooling and Focal Loss to improve detection
 
 ## 📊 Dataset
 
-- **Source:** Manually labeled dataset of 5,000 tweets  
+- **Source:** Manually labeled dataset of 5,000 tweets
+- https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
 - **Classes:**
   - Hate Speech (10%)
   - Offensive Language (30%)
